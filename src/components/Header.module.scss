@@ -1,0 +1,17 @@
+@import "./../index.module.scss";
+
+.header {
+  max-width: 100%;
+  width: 1366px;
+  height: 200px;
+
+  background: $--gray-700;
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+
+  margin-top: 0px;
+}
